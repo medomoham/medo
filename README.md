@@ -22,7 +22,7 @@ For the bot to be able to start, please complete the file with your credentials 
 Reminder :
 
 - `game`, the status of the bot.
-- `prefix`, the prefix that will be set to use the bot.
+- `prefix`, *
 - `token_bot`, the token of the bot available on the [Discord Developers](https://discordapp.com/developers/applications) section.
 
 To customize the emojis go to the file `emojis.json`.
